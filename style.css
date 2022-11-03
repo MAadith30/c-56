@@ -1,0 +1,12 @@
+body{
+    background-color: skyblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    text-align: center;
+
+}
+
+img {
+    width: 500px;
+    border-radius: 30px;
+}
